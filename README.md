@@ -127,7 +127,17 @@ Cruise-Satisfaction-Prediction/
     └── shap_waterfall.png
 ```
 ---
+## Metrics and thier results
+Mean Absolute Error: 0.10878753550698828
+Mean Squared Error: 0.018560833394158264
+Root Mean Squared Error: 0.13623814955495492
+R2 Score: 0.7422748348752446
 
+---
+## Cross Validation Scores
+[0.73368548 0.73606519 0.73337367 0.73796181 0.73217981]
+
+---
 ## Future Improvements
 
 - Hyperparameter optimization
