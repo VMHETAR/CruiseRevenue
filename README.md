@@ -121,7 +121,6 @@ Cruise-Satisfaction-Prediction/
 │
 ├── notebook.ipynb
 ├── README.md
-├── requirements.txt
 └── figures/
     ├── feature_importance.png
     ├── shap_summary.png
